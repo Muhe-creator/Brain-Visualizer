@@ -18,17 +18,6 @@ npm install
 npm run dev
 4. Build for production
 npm run build
-🗂️ Project Structure
-├── public/
-│   └── brain.png         # Background image
-├── src/
-│   ├── assets/brain.svg  # SVG overlay with region paths
-│   ├── App.jsx
-│   ├── BrainVisualizer.jsx
-│   ├── index.css
-│   └── main.jsx
-├── package.json
-└── README.md
 
 🔧 Known Issues / Improvements
 ⚠️ Hotzones may appear slightly misaligned on some screen sizes.
